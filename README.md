@@ -14,4 +14,6 @@
 ## **FastAPI Focus**
 - **Reference Material:** For more detailed information, refer to the [FastAPI Topics](/fastapi-topics/fastapi.md).
 
+## **AWS Focus**
+- **Reference Material:** For more detailed information, refer to the [AWS Topics](/aws/cloud.md).
 ---
