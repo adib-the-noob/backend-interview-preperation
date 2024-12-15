@@ -99,20 +99,7 @@
 
 ---
 
-## 8. **Testing and Debugging**
-### Unit Testing:
-- **pytest**: Writing unit tests for models, views, and APIs.
-- **Django Test Client**: Testing Django-based APIs and views.
-
-### Mocking:
-- **Mocking** external services using libraries like `unittest.mock`.
-
-### Debugging:
-- **Using logging** and **debugging tools** to identify issues.
-
----
-
-## 9. **Cloud and Deployment**
+## 8. **Cloud and Deployment**
 ### AWS Integration:
 - **Working with AWS services** (S3, EC2, RDS, Lambda).
 - **Deployment**: Using **Gunicorn** with **Nginx** for deploying Django applications.
@@ -124,18 +111,17 @@
 
 ---
 
-## 10. **Performance Optimization**
+## 9. **Performance Optimization**
 ### Query Optimization:
 - **Indexing**: Creating indexes to improve query performance.
 - **Database Caching**: Using Redis or Memcached to cache query results and reduce database load.
 
 ### Code Optimization:
-- **Efficient Algorithms**: Writing time-efficient and memory-efficient algorithms for backend services.
 - **Caching**: Implementing caching for commonly used data or responses.
 
 ---
 
-## 11. **System Design**
+## 10. **System Design**
 ### High Availability and Fault Tolerance:
 - **Scaling**: Horizontal vs. vertical scaling, handling load spikes.
 - **Database Sharding** and **Replication** for fault tolerance.
@@ -148,3 +134,14 @@
 - **Practice**: Write code snippets and small applications to demonstrate your skills.
 - **Explain Clearly**: Be ready to articulate **why** you chose certain tools or approaches in your projects.
 
+
+---
+
+### Additional Resources:
+ - **37 Backend Interview Questions**: [Read Here]("https://blog.hubspot.com/website/backend-interview-questions")
+ - **Top 100 back-end developer interview questions**: [Read Here]("https://www.turing.com/interview-questions/back-end")
+ - **50 Popular Backend Developer Interview Questions and Answers**: [Read Here]("https://roadmap.sh/questions/backend")
+ - **RestAPI Interview Questions**: [Read Here]("https://www.fullstack.cafe/blog/rest-api-interview-questions")
+ - **Rest API Interview Questions and Answers**: [Watch]("https://youtu.be/faMdrSCVDzc")
+ - **Python Interview Questions**: [Read Here]("https://www.geeksforgeeks.org/python-interview-questions/")
+ - **AWS Interview Questions**: [Read Here]("https://www.geeksforgeeks.org/aws-interview-questions/")

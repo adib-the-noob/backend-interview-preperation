@@ -43,12 +43,6 @@
 - **Custom Permissions**
 - **Content Negotiation** (if time permits)
 
-## Testing
-- **Unit Testing**
-  - Models
-  - Views
-  - APIs
-- **Using Django Test Client**
 
 ## Deployment
 - **Deployment Basics**
@@ -60,19 +54,14 @@
 ## Performance Optimization
 - **Query Optimization**
 - **Caching** (e.g., Redis, Django Cache Framework)
-- **Lazy Loading vs. Eager Loading**
 
 ## Security
 - **CSRF Protection**
 - **SQL Injection Mitigation**
 - **XSS Protection**
-- **Managing Secret Keys and Sensitive Data**
 
 ## Miscellaneous
 - **Django Middleware** (Basic understanding)
 - **Django Signals** (Basic usage)
 - **Django Admin** (General understanding)
 
-## Scalability and Maintenance
-- **Using Celery for Asynchronous Tasks** (if time permits)
-- **Database Migrations Best Practices**

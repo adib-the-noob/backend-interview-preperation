@@ -1,7 +1,5 @@
 # One-Day Cloud Preparation Plan (Technical Focus)
 
-## **Morning (4-5 hours): Core Cloud Concepts and Compute Services**
-
 ### 1. **Cloud Computing Basics**
 - **IaaS (Infrastructure as a Service)**: Virtual machines, storage, networks.
 - **PaaS (Platform as a Service)**: Managed platforms for app deployment.
@@ -18,8 +16,6 @@
   - **Use Case**: Create a simple Lambda function for an event (e.g., trigger on file upload to S3).
 
 ---
-
-## **Afternoon (3-4 hours): Networking, Storage, and Database Services**
 
 ### 1. **Networking:**
 - **AWS VPC (Virtual Private Cloud)**
@@ -50,19 +46,6 @@
 - **IAM Users & Roles**
   - Create users and assign roles with specific permissions.
   - Best practices: Use **Least Privilege** for access management.
-
-### 2. **CI/CD (Continuous Integration & Deployment):**
-- **AWS CodePipeline**: Automate the deployment process.
-  - Set up a simple CI/CD pipeline to deploy code from GitHub/CodeCommit to EC2 or Lambda.
-  
-- **AWS CodeBuild**: Automate building of the application.
-
----
-
-## **Quick Testing (1 hour):**
-- **API Testing**: Use **Postman** or **Pytest** to test a simple API built on AWS Lambda or EC2.
-- **Practice on AWS Free Tier**: Use the AWS Free Tier for practical, hands-on learning.
-
 ---
 
 ### **Key Topics to Focus On:**
